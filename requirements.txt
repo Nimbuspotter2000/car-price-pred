@@ -5,6 +5,7 @@ flask
 numpy
 pandas
 jsonify
-requestspickle
+requests
+pickle
 sklearn
 pickle
