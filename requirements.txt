@@ -6,6 +6,5 @@ numpy
 pandas
 jsonify
 requests
-pickle
 sklearn
 
